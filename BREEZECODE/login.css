@@ -1,0 +1,140 @@
+.photo-1507525428034-b723cf961d-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1500px;
+    height: 720px;
+    object-fit: cover;
+}
+
+.login-child {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 1499px;
+    height: 719px;
+    overflow: hidden;
+}
+
+.login-item {
+    position: absolute;
+    top: 40px;
+    left: 497px;
+    border-radius: 30px;
+    background-color: rgba(217, 217, 217, 0.3);
+    width: 507px;
+    height: 641px;
+}
+
+.login2 {
+    position: absolute;
+    top: 17px;
+    left: 42px;
+    line-height: 44px;
+    display: inline-block;
+    width: 156px;
+    height: 48px;
+}
+
+.login-inner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    width: 240px;
+    height: 81px;
+    mix-blend-mode: soft-light;
+}
+
+.login1 {
+    position: absolute;
+    top: 568px;
+    left: 631px;
+    width: 240px;
+    height: 81px;
+    font-size: 55px;
+    color: #fff;
+}
+
+.logo-no-background-1-icon {
+    position: absolute;
+    top: 100px;
+    left: 645px;
+    width: 211px;
+    height: 171px;
+    object-fit: cover;
+}
+
+.rectangle-div {
+    position: absolute;
+    top: 309px;
+    left: 572px;
+    border-radius: 30px;
+    background-color: #d9d9d9;
+    width: 357px;
+    height: 79px;
+}
+
+.login-child1 {
+    position: absolute;
+    top: 411px;
+    left: 572px;
+    border-radius: 30px;
+    background-color: #d9d9d9;
+    width: 357px;
+    height: 79px;
+}
+
+.frogot-password {
+    position: absolute;
+    top: 507px;
+    left: 671px;
+    font-size: 18px;
+    line-height: 44px;
+    color: #070707;
+}
+
+.enter-username {
+    position: absolute;
+    top: 327px;
+    left: 654px;
+    line-height: 44px;
+}
+
+.password {
+    position: absolute;
+    top: 426px;
+    left: 654px;
+    line-height: 44px;
+}
+
+.user-name-logo-1 {
+    position: absolute;
+    top: 327px;
+    left: 589px;
+    width: 42px;
+    height: 44px;
+    object-fit: cover;
+}
+
+.password-1-icon {
+    position: absolute;
+    top: 426px;
+    left: 583px;
+    width: 48px;
+    height: 44px;
+    object-fit: cover;
+}
+
+.login {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 720px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.3);
+    font-family: Inter;
+}

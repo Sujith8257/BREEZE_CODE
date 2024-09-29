@@ -1,0 +1,184 @@
+.photo-1507525428034-b723cf961d-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1500px;
+    height: 720px;
+    object-fit: cover;
+}
+
+.signup-child {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 1499px;
+    height: 719px;
+    overflow: hidden;
+}
+
+.signup-item {
+    position: absolute;
+    top: 40px;
+    left: 497px;
+    border-radius: 30px;
+    background-color: rgba(217, 217, 217, 0.3);
+    width: 507px;
+    height: 641px;
+}
+
+.logo-no-background-1-icon {
+    position: absolute;
+    top: 64px;
+    left: 644px;
+    width: 211px;
+    height: 171px;
+    object-fit: cover;
+}
+
+.pass-icon {
+    position: absolute;
+    top: 485px;
+    left: 559px;
+    border-radius: 30px;
+    width: 372px;
+    height: 64px;
+}
+
+.no-icon {
+    position: absolute;
+    top: 406px;
+    left: 559px;
+    border-radius: 30px;
+    width: 372px;
+    height: 64px;
+}
+
+.name-icon {
+    position: absolute;
+    top: 249px;
+    left: 564px;
+    border-radius: 30px;
+    width: 372px;
+    height: 64px;
+}
+
+.mail-icon {
+    position: absolute;
+    top: 327px;
+    left: 559px;
+    border-radius: 30px;
+    width: 372px;
+    height: 64px;
+}
+
+.enter-username {
+    position: absolute;
+    top: 259px;
+    left: 663px;
+    line-height: 44px;
+}
+
+.password {
+    position: absolute;
+    top: 337px;
+    left: 663px;
+    line-height: 44px;
+}
+
+.password1 {
+    position: absolute;
+    top: 416px;
+    left: 663px;
+    line-height: 44px;
+}
+
+.password2 {
+    position: absolute;
+    top: 491px;
+    left: 663px;
+    font-size: 28px;
+    line-height: 44px;
+    display: inline-block;
+    width: 262px;
+    height: 52px;
+}
+
+.user-name-logo-1 {
+    position: absolute;
+    top: 259px;
+    left: 586px;
+    width: 42px;
+    height: 44px;
+    object-fit: cover;
+}
+
+.password-1-icon {
+    position: absolute;
+    top: 495px;
+    left: 587px;
+    width: 48px;
+    height: 44px;
+    object-fit: cover;
+}
+
+.signup1 {
+    position: absolute;
+    top: 10.02px;
+    left: 29px;
+    line-height: 44px;
+    display: inline-block;
+    width: 176px;
+    height: 53px;
+}
+
+.sign-up-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    width: 234px;
+    height: 74px;
+    mix-blend-mode: soft-light;
+}
+
+.sign-up {
+    position: absolute;
+    top: 588px;
+    left: 634px;
+    width: 234px;
+    height: 74px;
+    font-size: 50px;
+    color: #fff;
+}
+
+.email-1-icon {
+    position: absolute;
+    top: 333px;
+    left: 581px;
+    width: 53px;
+    height: 52px;
+    object-fit: cover;
+}
+
+.phon-1-icon {
+    position: absolute;
+    top: 417px;
+    left: 587px;
+    border-radius: 34.5px;
+    width: 47px;
+    height: 44px;
+    object-fit: cover;
+}
+
+.signup {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 720px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.3);
+    font-family: Inter;
+}

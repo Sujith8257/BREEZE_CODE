@@ -1,0 +1,84 @@
+.photo-1507525428034-b723cf961d-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1500px;
+    height: 720px;
+    object-fit: cover;
+}
+
+.login-or-sign-up-child {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 1499px;
+    height: 719px;
+    overflow: hidden;
+}
+
+.logo-no-background-1-icon {
+    position: absolute;
+    top: 90px;
+    left: 603px;
+    width: 295px;
+    height: 271px;
+    object-fit: cover;
+}
+
+.login1 {
+    position: absolute;
+    top: 21px;
+    left: 58px;
+    line-height: 44px;
+    display: inline-block;
+    width: 192px;
+    height: 71px;
+}
+
+.login-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    width: 261px;
+    height: 94px;
+    mix-blend-mode: soft-light;
+}
+
+.login {
+    position: absolute;
+    top: 476px;
+    left: 468px;
+    width: 261px;
+    height: 94px;
+    cursor: pointer;
+}
+
+.signup {
+    position: absolute;
+    top: 27px;
+    left: 41px;
+    line-height: 44px;
+}
+
+.sign-up {
+    position: absolute;
+    top: 474px;
+    left: 772px;
+    width: 261px;
+    height: 94px;
+    cursor: pointer;
+}
+
+.login-or-sign-up {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 720px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 55px;
+    color: #000;
+    font-family: Inter;
+}

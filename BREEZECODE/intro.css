@@ -1,0 +1,46 @@
+.photo-1507525428034-b723cf961d-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1500px;
+    height: 720px;
+    object-fit: cover;
+}
+
+.logo-no-background-1-icon {
+    position: absolute;
+    top: 62px;
+    left: 294px;
+    width: 911px;
+    height: 595px;
+    object-fit: cover;
+}
+
+.logo-no-background-1-wrapper {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 1500px;
+    height: 719px;
+    overflow: hidden;
+}
+
+.play-1-icon {
+    position: absolute;
+    top: 572px;
+    left: 1348px;
+    border-radius: 1000000px;
+    width: 152px;
+    height: 148px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.intro {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 720px;
+    overflow: hidden;
+}
